@@ -1,3 +1,3 @@
 # Parallax
 Parallax.iphone
-Parallax / Clases en Platzi.
+Clases en Platzi.
